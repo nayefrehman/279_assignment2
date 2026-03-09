@@ -1,3 +1,7 @@
+/* Name: Naif Rehman
+Student ID: 20475524
+*/
+
 public enum Wood {
     MAHOGONY, MAPLE, CANADIAN_MAPLE, BRAZILIAN_ROSEWOOD, ALDER, SITKA, CEDER;
 

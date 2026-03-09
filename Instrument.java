@@ -1,3 +1,7 @@
+/* Name: Naif Rehman
+Student ID: 20475524
+*/
+
 public abstract class Instrument {
     
     // abstract class representing a instrument with common properties and methods used by  guitar and mandolin classes

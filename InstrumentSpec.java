@@ -1,3 +1,7 @@
+/* Name: Naif Rehman
+Student ID: 20475524
+*/
+
 public abstract class InstrumentSpec {
 
     // defining common variables for all instruments

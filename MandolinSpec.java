@@ -1,3 +1,7 @@
+/* Name: Naif Rehman
+Student ID: 20475524
+*/
+
 public class MandolinSpec extends InstrumentSpec {
 
     // this class is child class of InstrumentSpec

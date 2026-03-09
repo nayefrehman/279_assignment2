@@ -1,3 +1,7 @@
+/* Name: Naif Rehman
+Student ID: 20475524
+*/
+
 public class GuitarSpec extends InstrumentSpec {
  // GuitarSpec class extends and is the child class of InstrumentSpec
     private int numStrings; // number of strings in the guitar, variable on top of variables in InstrumentSpec
